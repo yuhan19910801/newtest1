@@ -12,7 +12,7 @@ public class TestCast {
 
 		int a=1;
 
-		int b=1;
+		int b=1;//b
 
 		double sum1 = i + d;
 		int sum2 = (int)(i + d);
