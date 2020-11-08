@@ -11,6 +11,7 @@ public class TestCast {
 		int sum2 = (int)(i + d);
 		System.out.println(sum1);
 		System.out.println(sum2);
+System.out.println(sum3);
 	}
 
 }
