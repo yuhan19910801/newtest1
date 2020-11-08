@@ -12,6 +12,8 @@ public class TestCast {
 
 		int a=1;
 
+		int b=1;
+
 		double sum1 = i + d;
 		int sum2 = (int)(i + d);
 		System.out.println(sum1);
