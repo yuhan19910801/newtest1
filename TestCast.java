@@ -8,6 +8,7 @@ public class TestCast {
 		int i = 1;
 		double d = 11.1;
 		int a=1;
+		int b=1;
 		double sum1 = i + d;
 		int sum2 = (int)(i + d);
 		System.out.println(sum1);
