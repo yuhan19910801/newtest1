@@ -7,12 +7,16 @@ public class TestCast {
 	public static void main(String[] args) {
 		int i = 1;
 		double d = 11.1;
+
 		int b=1;
+
+		int a=1;
+
 		double sum1 = i + d;
 		int sum2 = (int)(i + d);
 		System.out.println(sum1);
 		System.out.println(sum2);
-System.out.println(sum3);
+
 	}
 
 }
